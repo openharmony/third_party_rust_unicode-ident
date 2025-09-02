@@ -3,7 +3,7 @@
     "Name": "unicode-ident",
     "License": "Unicode, Apache License 2.0, MIT",
     "License File": "LICENSE-UNICODE, LICENSE-APACHE,LICENSE-MIT",
-    "Version Number": "1.0.8",
+    "Version Number": "1.0.14",
     "Owner": "fangting12@huawei.com",
     "Upstream URL": "https://github.com/dtolnay/unicode-ident.git",
     "Description": "A Rust library that provides support for working with Unicode identifiers."
